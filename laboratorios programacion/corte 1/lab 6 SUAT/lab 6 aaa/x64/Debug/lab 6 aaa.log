@@ -1,0 +1,109 @@
+﻿  lab 6 aaa.cpp
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(6,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(6,18): error C2059: error de sintaxis: ','
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(6,41): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(18,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(18,15): error C2535: 'Estudiante::Estudiante(void)': función miembro ya definida o declarada
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(12): message : vea la declaración de 'Estudiante::Estudiante'
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(30,12): error C3646: 'mostrarTipoDocumento': especificador de invalidación desconocido
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(30,32): error C2059: error de sintaxis: '('
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(30,35): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(43,12): error C3646: 'getNombre': especificador de invalidación desconocido
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(43,21): error C2059: error de sintaxis: '('
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(43,24): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(47,12): error C3646: 'getAsignatura': especificador de invalidación desconocido
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(47,25): error C2059: error de sintaxis: '('
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(47,28): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(51,12): error C3646: 'getDocumento': especificador de invalidación desconocido
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(51,24): error C2059: error de sintaxis: '('
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(51,27): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(71,20): error C2061: error de sintaxis: identificador 'string'
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(75,23): error C2061: error de sintaxis: identificador 'string'
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(79,24): error C2061: error de sintaxis: identificador 'string'
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(124,12): error C3646: 'siAprobo': especificador de invalidación desconocido
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(124,20): error C2059: error de sintaxis: '('
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(124,33): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(13,9): error C2065: 'nombre': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(13,18): error C2065: 'documento': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(13,30): error C2065: 'asignatura': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(20,9): error C2065: 'nombre': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(20,18): error C2065: 'newNombre': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(21,9): error C2065: 'documento': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(21,21): error C2065: 'newDoc': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(22,9): error C2065: 'asignatura': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(22,22): error C2065: 'newAsig': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(23,26): error C2065: 'newTipo': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(24,23): error C2065: 'newNota1': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(25,23): error C2065: 'newNota2': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(26,23): error C2065: 'newNota3': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(36,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(37,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(38,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(72,9): error C2065: 'nombre': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(72,18): error C2065: 'newNombre': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(76,9): error C2065: 'documento': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(76,21): error C2065: 'newDocumento': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(80,9): error C2065: 'asignatura': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(80,22): error C2065: 'newAsignatura': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(100,9): error C2065: 'nombre': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(100,18): error C2065: 'documento': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(100,30): error C2065: 'asignatura': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(107,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(107,31): error C2065: 'nombre': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(107,41): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(108,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(108,34): error C2065: 'documento': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(108,47): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(109,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(109,60): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(110,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(110,35): error C2065: 'asignatura': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(110,49): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(111,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(111,52): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(112,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(112,52): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(113,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(113,52): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(117,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(117,47): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(119,9): error C2065: 'string': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(119,16): error C2146: error de sintaxis: falta ';' delante del identificador 'aprobo'
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(119,16): error C2065: 'aprobo': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(119,25): error C3861: 'siAprobo': no se encontró el identificador
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(120,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(120,17): error C2065: 'aprobo': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(136,5): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(136,32): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(138,5): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(138,32): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(139,5): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(139,32): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(141,5): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(141,32): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(142,5): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(142,32): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(144,5): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(144,32): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(149,87): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'Estudiante'
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(149,87): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(150,85): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'Estudiante'
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(150,85): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(156,9): error C3861: 'system': no se encontró el identificador
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(157,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(157,29): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(157,37): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(158,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(158,45): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(159,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(159,55): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(160,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(160,50): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(161,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(161,45): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(162,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(162,31): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(162,39): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(162,47): error C2065: 'endl': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(164,9): error C2065: 'cout': identificador no declarado
+C:\Users\turme\OneDrive\Documentos\laboratorios programacion\corte 1\lab 6 SUAT\lab 6 aaa\lab 6 aaa.cpp(164,14): fatal error C1003: el recuento de errores supera 100; se detiene la compilación

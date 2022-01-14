@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629649564 source:c:\users\turme\onedrive\escritorio\c++\calculadoraprocedimiento\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

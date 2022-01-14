@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623273037 source:c:\users\turme\onedrive\documentos\programas-scrips desarrollados\c++\ficheros\ficheros\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

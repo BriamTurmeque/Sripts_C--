@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623279260 source:c:\users\turme\onedrive\documentos\programas-scrips desarrollados\c++\ficheros\lectura ficheros\practicalectura\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
