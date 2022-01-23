@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1642879595 source:c:\users\turme\onedrive\documentos\laboratorios programacion\corte 1\taller 2_ herencia\herencia\main.cpp
-	<iostream>
-	<stdlib.h>
-	<conio.h>
-	<string>
-	<ctime>
-
