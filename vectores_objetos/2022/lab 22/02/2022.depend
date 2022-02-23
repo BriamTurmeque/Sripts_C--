@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645497702 source:c:\users\turme\onedrive\documentos\laboratorios programacion\corte 1\vectores_objetos\2022\lab 22\02\main.cpp
+	<iostream>
+	"vector"
+	"string"
+

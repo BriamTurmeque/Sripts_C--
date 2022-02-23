@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645537719 source:c:\users\turme\onedrive\documentos\laboratorios programacion\corte 1\vectores_objetos\2022\lab 22\02\primer punto\primer_punto\main.cpp
+	<iostream>
+	"vector"
+	"string"
+
